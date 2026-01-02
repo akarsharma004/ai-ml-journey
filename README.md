@@ -1,1 +1,1 @@
-# ai-ml-journey
+# AI-ML JOURNEY
