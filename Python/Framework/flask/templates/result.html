@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Exam Analysis</h2>
+
+    {% if results['Final Status'] == "PASSED" %}
+        <h1 style="color: green;">CONGRATULATIONS!</h1>
+    {% else %}
+        <h1 style="color: red;">TRY AGAIN</h1>
+    {% endif %}
+
+    <table border="1">
+        {% for key, value in results.items() %}
+        <tr>
+            <th>{{ key }}</th>
+            <td>{{ value }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <br>
+    <a href="{{ url_for('index') }}">Back to Portal</a>
+
+</body>
+</html>
