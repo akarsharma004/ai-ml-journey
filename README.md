@@ -38,13 +38,3 @@ Welcome to my central repository documenting my path from Python basics to Full 
 - [x] **Streamlit**: Rapid prototyping for ML/Data Science web apps.
 
 ---
-
-## 📂 Repository Structure
-```text
-AI-ML-Journey/
-├── 01-Python-Basics/      # Syntax, Loops, Functions
-├── 02-DSA-Algorithms/     # Sorting & Searching implementations
-├── 03-OOP-Concepts/       # Classes & Object implementations
-├── 04-Data-Science/       # Notebooks using Pandas/Numpy
-├── 05-Web-Flask/          # Basic API and Web Routes
-└── 06-Projects/           # Mini-projects and Streamlit apps
