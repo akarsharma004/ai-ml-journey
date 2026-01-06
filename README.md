@@ -30,11 +30,13 @@ Welcome to my central repository documenting my path from Python basics to Full 
 - [x] **Visualization**: Matplotlib & Seaborn for EDA (Exploratory Data Analysis).
 - [x] **Database**: SQLite integration with Python.
 
-### 🔹 Module 4: Web & Deployment
+### 🔹 Module 4: Web & Deployment For ML Application
 - [x] **Flask Framework**: 
   - WSGI & App Skeleton
   - Jinja2 Template Engine
   - HTTP Verbs (GET, POST, PUT, DELETE)
 - [x] **Streamlit**: Rapid prototyping for ML/Data Science web apps.
+
+### Module 5: Machine Learning
 
 ---
