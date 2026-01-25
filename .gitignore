@@ -2,6 +2,7 @@
 venv/
 env/
 .venv/
+ai-ml/
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
