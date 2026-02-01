@@ -45,6 +45,6 @@ Welcome to my central repository documenting my path from Python basics to Full 
   - Machine Learning 
   - Deep Learning
 - [x] **Machine Learning Techniques**
-  - Supervised Machine Learning
+  - Supervised Machine Learning 
 
 ---
