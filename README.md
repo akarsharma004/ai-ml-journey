@@ -38,5 +38,13 @@ Welcome to my central repository documenting my path from Python basics to Full 
 - [x] **Streamlit**: Rapid prototyping for ML/Data Science web apps.
 
 ### Module 5: Machine Learning
+- [x] **Basics**:
+  - **Definition & Differences**
+  - Artificial Intelligence
+  - Data Science
+  - Machine Learning 
+  - Deep Learning
+- [x] **Machine Learning Techniques**
+  - Supervised Machine Learning
 
 ---
